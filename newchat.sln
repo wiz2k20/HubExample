@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newchat", "newchat.csproj", "{63BB4684-70B0-4429-A00C-082B92ED9329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meuteste.hoho", "..\meuteste.hoho\meuteste.hoho.csproj", "{E452491F-141F-493C-A6CC-C46E400FEA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BB4684-70B0-4429-A00C-082B92ED9329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BB4684-70B0-4429-A00C-082B92ED9329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BB4684-70B0-4429-A00C-082B92ED9329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BB4684-70B0-4429-A00C-082B92ED9329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E452491F-141F-493C-A6CC-C46E400FEA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E452491F-141F-493C-A6CC-C46E400FEA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E452491F-141F-493C-A6CC-C46E400FEA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E452491F-141F-493C-A6CC-C46E400FEA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDFF73F8-25A6-4A36-B003-8A4102D925DE}
+	EndGlobalSection
+EndGlobal
